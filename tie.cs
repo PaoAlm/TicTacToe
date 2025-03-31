@@ -21,7 +21,7 @@ namespace juegogato
         {
             InitializeComponent();
             _form1 = form1;
-            TieSound();
+            //TieSound();
         }
 
         private void TieSound()
