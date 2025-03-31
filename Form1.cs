@@ -322,6 +322,15 @@ namespace juegogato
         {
         }
 
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            // Detener la música al cerrar la ventana
+            background.Stop();  // Detiene la reproducción de audio
+            background.Dispose();  // Libera los recursos usados por NAudio
+            // Cierra todos los formularios y termina la aplicación
+            Application.Exit();
+        }
+
         private void lblTurno_Click(object sender, EventArgs e)
         {
 
