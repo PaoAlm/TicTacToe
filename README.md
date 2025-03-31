@@ -15,12 +15,12 @@ A classic Tic-Tac-Toe game for two players. Players take turns on the same compu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/PaoAlm/TicTacToe.git
 exit
 ```
 1.1 Navigate to the project directory:
 ```bash
-cd repository-name
+cd TicTacToe
 ```
 
 2. Install NAudio via NuGet:
@@ -43,9 +43,9 @@ If you prefer to install the game directly, download the latest release ZIP file
 ![BoardScreen](https://github.com/user-attachments/assets/2443dd67-78a0-4a07-808d-bf58a0896e24)
 ### Winner Message
 ![WinnerMessage](https://github.com/user-attachments/assets/c3e71894-dc23-4295-bde0-9b49bafa0ff3)
-## Tie Message
+### Tie Message
 ![TieMessage](https://github.com/user-attachments/assets/6e9a5d00-8a11-4c21-b60e-257341e711f6)
-## Options Menu
+### Options Menu
 ![OptionsMenu](https://github.com/user-attachments/assets/f0dbb29c-891e-4311-a468-8eb11290c615)
 
 ## Author
