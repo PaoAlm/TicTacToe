@@ -34,7 +34,8 @@ This project uses third-party graphic and audio resources.
 The designs and sounds used are not my own and may be subject to their respective licenses.
 
 ## Download and Install the Game
-If you prefer to install the game directly, download the latest release ZIP file from the Releases section and extract it on your device.
+If you prefer to install the game directly, download the latest release ZIP file from the Releases section and extract it on your device. Link Below.
+https://github.com/PaoAlm/TicTacToe/releases/tag/v1.0
 
 ## Screenshots
 ### Main Menu
