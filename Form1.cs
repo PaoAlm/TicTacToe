@@ -144,6 +144,8 @@ namespace juegogato
         }
         #endregion
 
+
+
         private void BotonesLogica_Click(object sender, EventArgs e)
         {
             var button = (Button)sender;
